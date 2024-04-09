@@ -15,7 +15,7 @@ namespace Admin
 
     public partial class Home : Form
     {
-        private string connectionString = "Server=INT-NHHUY-LAPTO\\HUYSQL;Database=KHOAHOC;Integrated Security=True;";
+        private string connectionString = "Server=DESKTOP-K5J4U41\\HUYSQL;Database=KHOAHOC;Integrated Security=True;";
       
         public Home()
         {
